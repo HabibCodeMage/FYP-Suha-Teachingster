@@ -1,4 +1,4 @@
-# Suha Teachingster
+# FYP-Suha-Teachingster
 
 This project contains the server file DPR(weights-link) and chatbot weights and document files and flask server file(link).
 ## pytorrch-flask-api
